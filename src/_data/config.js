@@ -1,18 +1,18 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Pankaj Yadav",
+  title: "Atin Suri",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact information for Pankaj Yadav.",
+  description: "Contact information for Atin Suri.",
 
   // Site URLs.
-  baseUrl: "https://www.pankajyadav.me/", // No slash at the end.
-  shortBaseUrl: "www.pankajyadav.me", // Same as baseUrl but without http or https.
+  baseUrl: "https://www.atinsuri.me/", // No slash at the end.
+  shortBaseUrl: "www.atinsuri.me", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Pankaj Yadav",
+  name: "Atin Suri",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Tech Evangelist and CEO at Tagglabs",
+  tagline: "Chief Experientialist at The Experiential Hub",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
@@ -51,43 +51,36 @@ module.exports = {
   links: [
     {
       name: "Website",
-      desc: "pankajyadav.me",
-      url: "https://www.pankajyadav.me",
+      desc: "atinsuri.me",
+      url: "https://www.atinsuri.me",
       fa: "fas fa-globe-americas",
       textColor: "text-website",
     },
     {
       name: "Work",
-      desc: "pankaj@tagglabs.in",
-      url: "mailto:pankaj@tagglabs.in",
-      fa: "fas fa-envelope",
-      textColor: "text-gray-600",
-    },
-     {
-      name: "Personal",
-      desc: "mail@pankajyadav.me",
-      url: "mailto:mail@pankajyadav.me",
+      desc: "atin@theexperientialhub.com",
+      url: "mailto:theexperientialhub.com",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
       name: "Twitter",
-      desc: "@psy_techie",
-      url: "https://twitter.com/psy_techie",
+      desc: "@suri_atin",
+      url: "https://twitter.com/suri_atin",
       fa: "fab fa-twitter",
       textColor: "text-twitter",
     },
     {
       name: "LinkedIn",
-      desc: "@pankajsinghyadav",
-      url: "https://www.linkedin.com/in/pankajsinghyadav/",
+      desc: "Atin Suri",
+      url: "https://www.linkedin.com/in/atin-suri-8b00a651/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
        {
       name: "Instagram",
-      desc: "@pankajyadav.eth",
-      url: "https://www.instagram.com/pankajyadav.eth/",
+      desc: "@patin.suri.bonzo",
+      url: "https://www.instagram.com/atin.suri.bonzo/,
       fa: "fab fa-instagram",
       textColor: "text-instagram",
     },
